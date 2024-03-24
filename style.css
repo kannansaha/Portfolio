@@ -1,0 +1,26 @@
+body{
+    font-family: 'Alata', sans-serif;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-repeat: no-repeat;
+}
+.banner{
+    background-image:url("./images/bg-pf.avif") ;
+    background-size:cover;
+    padding: 200px 0;
+        
+}
+.col-md-1{
+    text-align:center;
+   
+    color:aliceblue;
+    margin-top: 10%;
+}
+.row{ 
+  display: flex;
+}
+#About{ 
+    background-color:black;
+    color: aliceblue;
+  }
